@@ -19,13 +19,19 @@ I'm a brazilian Software Engineering student based on Japan.
   
   API to calculate shipping costs based on weight and shipping type
 
+  https://github.com/GabrielObuti/Shipping-System
+
 - 🔹 **Magic 8-Ball (Python)**
   
   Simple CLI application using random responses
 
+  https://github.com/GabrielObuti/Magic-8-Ball
+
 - 🔹 **Guessing Game (Python)**
   
   Interactive game with input validation and loop logic
+
+  https://github.com/GabrielObuti/Guessing-Game
 
 
 ## 🌎 Languages
