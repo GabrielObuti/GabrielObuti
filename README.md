@@ -31,7 +31,7 @@ I'm a brazilian Software Engineering student based on Japan.
   
   Interactive game with input validation and loop logic
 
-  https://github.com/GabrielObuti/Guessing-Game
+  https://github.com/GabrielObuti/Guessing-game
 
 
 ## 🌎 Languages
