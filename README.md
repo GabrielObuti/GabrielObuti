@@ -5,7 +5,7 @@ I'm a brazilian Software Engineering student based on Japan.
 ## ✨About me
 - 🎓 Studying Software Engineering at Uninter University
 - 💡 Currently improving Python, Backend and HTML&CSS skills
-- 🌍 Actively stuying English (currently using C1-level materials) to improve communication and technical understanding 
+- 🌍 Actively stuying English to improve communication and technical understanding 
 - 🎯 Looking for my first opportunity as a Software Engineering intern
 
 ## 🛠 Skills
